@@ -12,7 +12,7 @@ This fine grained split can help in understanding and improving the performance 
 
 ### **Strcuture**
 
-This directory has been broken down into three sub-directories:
+This directory has been broken down into two sub-directories:
 ```
 └── ChartQA-Split
     ├───dataset
