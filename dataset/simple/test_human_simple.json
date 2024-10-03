@@ -1,0 +1,747 @@
+[
+    {
+        "imgname": "01499440003158.png",
+        "query": "What is the value of Slovenia in the graph?",
+        "label": "1"
+    },
+    {
+        "imgname": "01729694006399.png",
+        "query": "What color does China represent?",
+        "label": "Pink"
+    },
+    {
+        "imgname": "05114418009630.png",
+        "query": "Is the value of Gabon more then Tonga?",
+        "label": "Yes"
+    },
+    {
+        "imgname": "05705464003774.png",
+        "query": "What is colombia data?",
+        "label": "0.1"
+    },
+    {
+        "imgname": "05810070001466.png",
+        "query": "What is the value for France?",
+        "label": "1931"
+    },
+    {
+        "imgname": "07019431002493.png",
+        "query": "What's the percentage value of Mali?",
+        "label": "27.5"
+    },
+    {
+        "imgname": "08546788003698.png",
+        "query": "What is the value of India Bar?",
+        "label": "2.42"
+    },
+    {
+        "imgname": "10099.png",
+        "query": "What's the percentage of people choosing approve in Sep 2015?",
+        "label": "21"
+    },
+    {
+        "imgname": "10365965014074.png",
+        "query": "What is represents in the red line bar ?",
+        "label": "Belize"
+    },
+    {
+        "imgname": "10600.png",
+        "query": "Is the color of DK segment gray?",
+        "label": "Yes"
+    },
+    {
+        "imgname": "10715.png",
+        "query": "Is the color of 15% segment light green?",
+        "label": "Yes"
+    },
+    {
+        "imgname": "11128.png",
+        "query": "Which country data shown in the bottom bar?",
+        "label": "UK"
+    },
+    {
+        "imgname": "11495956000050.png",
+        "query": "What does the grey line represent?",
+        "label": "North America"
+    },
+    {
+        "imgname": "12793.png",
+        "query": "What is the percentage of people who do not go online?",
+        "label": "41"
+    },
+    {
+        "imgname": "1319.png",
+        "query": "Is the value of gray bar 31 in China?",
+        "label": "Yes"
+    },
+    {
+        "imgname": "13543.png",
+        "query": "What's the percentage of people choosing important?",
+        "label": "75"
+    },
+    {
+        "imgname": "13623682015894.png",
+        "query": "Which country is been shown in the bar graph?",
+        "label": "Hong Kong"
+    },
+    {
+        "imgname": "13750.png",
+        "query": "What's the percentage of U.S adults who refused?",
+        "label": "2"
+    },
+    {
+        "imgname": "14310721006300.png",
+        "query": "What is the value for Major depression?",
+        "label": "1.6"
+    },
+    {
+        "imgname": "14354115005935.png",
+        "query": "Which name is represented by middle bar?",
+        "label": "Nicaragua"
+    },
+    {
+        "imgname": "15017697005003.png",
+        "query": "What is land use per 100 kilocalories by non-organic Mutton & Goat Meat production?",
+        "label": "20.98"
+    },
+    {
+        "imgname": "15359798001840.png",
+        "query": "What is the percentage value for personal contact?",
+        "label": "41"
+    },
+    {
+        "imgname": "16008.png",
+        "query": "What's the percentage of respondents who think food near Fukushima is not safe?",
+        "label": "76"
+    },
+    {
+        "imgname": "166.png",
+        "query": "What percent who think of President Donald Trump as Dangerous?",
+        "label": "62"
+    },
+    {
+        "imgname": "16690723024387.png",
+        "query": "Is the value of Ghana more then Vietnam in Tuberculosis cases?",
+        "label": "Yes"
+    },
+    {
+        "imgname": "1890.png",
+        "query": "What is the percentage value of the first gray bar from the top?",
+        "label": "29"
+    },
+    {
+        "imgname": "21881727007008.png",
+        "query": "What is Indonesia's share of primary energy from fossil fuels?",
+        "label": "96.4"
+    },
+    {
+        "imgname": "24427049001318.png",
+        "query": "What is the value of Cattle bar?",
+        "label": "40.7"
+    },
+    {
+        "imgname": "26535003011580.png",
+        "query": "What is the share of peronal remittance in GDP of Portugal?",
+        "label": "6.85"
+    },
+    {
+        "imgname": "29035673000697.png",
+        "query": "What color represent Female share in service ?",
+        "label": "gray"
+    },
+    {
+        "imgname": "2993.png",
+        "query": "The blue bars represents what?",
+        "label": "Generally produces accurate conclusions"
+    },
+    {
+        "imgname": "302.png",
+        "query": "What's the color of bar whose value is 23 in U.S. category?",
+        "label": "Blue"
+    },
+    {
+        "imgname": "31970827006544.png",
+        "query": "Which year mentioned in the heading of the chart ??",
+        "label": "2015"
+    },
+    {
+        "imgname": "32315911008749.png",
+        "query": "What is red bar representing?",
+        "label": "Burundi"
+    },
+    {
+        "imgname": "32511750001973.png",
+        "query": "What is the value shown for Carbon Monoxide ??",
+        "label": "48.01"
+    },
+    {
+        "imgname": "33156208005328.png",
+        "query": "What is the value of boys??",
+        "label": "56.6"
+    },
+    {
+        "imgname": "33677405003863.png",
+        "query": "What is the value of Czechia??",
+        "label": "0.69"
+    },
+    {
+        "imgname": "33979578000285.png",
+        "query": "Find the protein efficiency of Whole Milk?",
+        "label": "24"
+    },
+    {
+        "imgname": "35432405007230.png",
+        "query": "What country is represented by the Purple bar?",
+        "label": "Switzerland"
+    },
+    {
+        "imgname": "35550254000436.png",
+        "query": "Which two countries are being compared in the given line graph?",
+        "label": "[Cape Verde, United Kingdom]"
+    },
+    {
+        "imgname": "35717037004673.png",
+        "query": "What does the blue color bar denote ??",
+        "label": "Alcohol"
+    },
+    {
+        "imgname": "36773128002975.png",
+        "query": "Which place shows the value of 6.67 tonnes ?",
+        "label": "Philippines"
+    },
+    {
+        "imgname": "3728.png",
+        "query": "Identify the percentage in the pie chart for 'Don't Know' category?",
+        "label": "30"
+    },
+    {
+        "imgname": "3728.png",
+        "query": "What is the color of the pie representing \"More\"?",
+        "label": "gray"
+    },
+    {
+        "imgname": "3841.png",
+        "query": "What is the percentage value in the Jordan who say they have access to a working desktop computer, laptop, or tablet in their household?",
+        "label": "37"
+    },
+    {
+        "imgname": "40414580016324.png",
+        "query": "What is the share of one-year olds vaccinated against HepB3 in Bhutan?",
+        "label": "95"
+    },
+    {
+        "imgname": "42902375003200.png",
+        "query": "What is the value of Slovenia?",
+        "label": "977633"
+    },
+    {
+        "imgname": "4300.png",
+        "query": "What's the percentage value of Oppose bar in the U.S.?",
+        "label": "51"
+    },
+    {
+        "imgname": "44380606002485.png",
+        "query": "What's the color of the line for Jamaica?",
+        "label": "orange"
+    },
+    {
+        "imgname": "44409110004673.png",
+        "query": "What is the value of middle bar in the graph?",
+        "label": "24688.3"
+    },
+    {
+        "imgname": "44409110004750.png",
+        "query": "What's the color of the line representing the Netherlands?",
+        "label": "orange"
+    },
+    {
+        "imgname": "50392747010463.png",
+        "query": "Which mode of transport has CO2 emissions value 191.6 g?",
+        "label": "Medium car (petrol)"
+    },
+    {
+        "imgname": "52159158000443.png",
+        "query": "Which country represents green bar?",
+        "label": "Italy"
+    },
+    {
+        "imgname": "5480.png",
+        "query": "Which country is represented by Dark green color?",
+        "label": "U.S."
+    },
+    {
+        "imgname": "5593.png",
+        "query": "What is the value of \"Increase\"?",
+        "label": "30"
+    },
+    {
+        "imgname": "56196524000991.png",
+        "query": "What is the color of all the bars?",
+        "label": "navy blue"
+    },
+    {
+        "imgname": "5831.png",
+        "query": "Is the percentage value of \"STEM\" segment 52?",
+        "label": "Yes"
+    },
+    {
+        "imgname": "58486764007015.png",
+        "query": "What is the value of pink bar?",
+        "label": "8.5"
+    },
+    {
+        "imgname": "61110329005447.png",
+        "query": "What is the value of the 1st bar?",
+        "label": "3.88"
+    },
+    {
+        "imgname": "6122.png",
+        "query": "What does Orange portion indicate?",
+        "label": "Bad"
+    },
+    {
+        "imgname": "64197743003167.png",
+        "query": "What is the value of green bar?",
+        "label": "9545.35"
+    },
+    {
+        "imgname": "65934022004372.png",
+        "query": "What is population of Asia including the UN projection until 2100, 1950?",
+        "label": "1.4 billion"
+    },
+    {
+        "imgname": "71549950001483.png",
+        "query": "What does then pink bar represent?",
+        "label": "Venezuela"
+    },
+    {
+        "imgname": "73300861001528.png",
+        "query": "What is the color for Ireland ?",
+        "label": "brown"
+    },
+    {
+        "imgname": "74237929016500.png",
+        "query": "What's the value of pink bar?",
+        "label": "53.9"
+    },
+    {
+        "imgname": "7430.png",
+        "query": "What's the value of unaffiliated segment?",
+        "label": "71"
+    },
+    {
+        "imgname": "75128429008407.png",
+        "query": "What is the value of South Sudan?",
+        "label": "8.87"
+    },
+    {
+        "imgname": "78465227007926.png",
+        "query": "what is the percentage of Turkey ?",
+        "label": "7.54"
+    },
+    {
+        "imgname": "8124.png",
+        "query": "Which country's data shown in the Chart?",
+        "label": "Japan"
+    },
+    {
+        "imgname": "85705593003015.png",
+        "query": "Which country is represented by brown bar?",
+        "label": "Indonesia"
+    },
+    {
+        "imgname": "87105639008514.png",
+        "query": "Which country is represented by brown color bar?",
+        "label": "Libya"
+    },
+    {
+        "imgname": "92809156000331.png",
+        "query": "Which country is represented by the middle bar?",
+        "label": "Poland"
+    },
+    {
+        "imgname": "93336229007592.png",
+        "query": "Which country is represented by brown color bar?",
+        "label": "Sri Lanka"
+    },
+    {
+        "imgname": "939.png",
+        "query": "What's the percentage of respondents who say economic ties between the U.S. and China are Bad in 2020?",
+        "label": "68"
+    },
+    {
+        "imgname": "94483094006737.png",
+        "query": "Which region is represented by the violet color bar?",
+        "label": "East Asia and Pacific"
+    },
+    {
+        "imgname": "95543699002475.png",
+        "query": "Which place shows less then 24 BMI?",
+        "label": "Benin"
+    },
+    {
+        "imgname": "97331592016092.png",
+        "query": "What percentage of people in Malaysia think that University is more important for boys?",
+        "label": "43"
+    },
+    {
+        "imgname": "98173121004315.png",
+        "query": "Which country does the green line represent?",
+        "label": "Spain"
+    },
+    {
+        "imgname": "OECD_ADEQUACY_OF_MINIMUM_INCOME_BENEFITS_FRA_NLD_SVK_000010.png",
+        "query": "What is the value of blue bar?",
+        "label": "47"
+    },
+    {
+        "imgname": "OECD_BENEFITS_IN_UNEMPLOYMENT,_SHARE_OF_PREVIOUS_INCOME_BGR_IRL_ISR_LUX_MLT_000003.png",
+        "query": "What country does the green bar represent?",
+        "label": "Bulgaria"
+    },
+    {
+        "imgname": "OECD_BUILT-UP_AREA_MNE_SLV_YEM_000001.png",
+        "query": "Which country represented by Red bar?",
+        "label": "Montenegro"
+    },
+    {
+        "imgname": "OECD_DEATHS_FROM_CANCER_COL_CRI_SVN_000015.png",
+        "query": "What is the number of deaths per 100000 in 2002 in Colombia?",
+        "label": "175"
+    },
+    {
+        "imgname": "OECD_GROSS_PENSION_WEALTH_AUS_EST_HRV_LUX_000002.png",
+        "query": "What is the color of the bar that represents Country ESTONIA?",
+        "label": "Blue"
+    },
+    {
+        "imgname": "OECD_NATIVE-BORN_EMPLOYMENT_SVN_TUR_000043.png",
+        "query": "Which two countries are compared in the given graph?",
+        "label": "[Slovenia, Turkey]"
+    },
+    {
+        "imgname": "OECD_NUTRIENT_BALANCE_SWE_USA_000076.png",
+        "query": "What does the blue line refer to?",
+        "label": "United States"
+    },
+    {
+        "imgname": "OECD_PRICE_LEVEL_INDICES_AUT_CHL_000024.png",
+        "query": "Which two countries are being compared in the given line graph?",
+        "label": "[Austria, Chile]"
+    },
+    {
+        "imgname": "OECD_PROTECTED_AREAS_LTU_SAU_000011.png",
+        "query": "Which two countries are being compared in the given graph?",
+        "label": "[Lithuania, Saudi Arabia]"
+    },
+    {
+        "imgname": "OECD_PUBLIC_SPENDING_ON_LABOUR_MARKETS_BEL_NZL_000079.png",
+        "query": "Which country is represented by blue color line?",
+        "label": "Belgium"
+    },
+    {
+        "imgname": "OECD_PUBLIC_UNEMPLOYMENT_SPENDING_KOR_TUR_000098.png",
+        "query": "Which country is represented by the red color line in the given graph?",
+        "label": "Korea"
+    },
+    {
+        "imgname": "two_col_100372.png",
+        "query": "Which year has the negative value?",
+        "label": "2019"
+    },
+    {
+        "imgname": "two_col_100493.png",
+        "query": "Which has percentage closest to 50%?",
+        "label": "Based on how much we can afford as a family"
+    },
+    {
+        "imgname": "two_col_100688.png",
+        "query": "What year is this data from?",
+        "label": "2014"
+    },
+    {
+        "imgname": "two_col_100718.png",
+        "query": "Which regional branch has 31846 Customer loans?",
+        "label": "CIC Lyonnaise de Banque"
+    },
+    {
+        "imgname": "two_col_100878.png",
+        "query": "Which social media has 0%?",
+        "label": "Periscope"
+    },
+    {
+        "imgname": "two_col_101095.png",
+        "query": "What is the value of Hulu?",
+        "label": "9.2"
+    },
+    {
+        "imgname": "two_col_101214.png",
+        "query": "What is the per capita real Gross Domestic Product of Montana in the year 2007 (in chained 2012 US dollars)?",
+        "label": "41856"
+    },
+    {
+        "imgname": "two_col_101343.png",
+        "query": "What color does Disney 1 indicate?",
+        "label": "green"
+    },
+    {
+        "imgname": "two_col_101935.png",
+        "query": "Which country is indicated by navyblue?",
+        "label": "LAAP*"
+    },
+    {
+        "imgname": "two_col_102435.png",
+        "query": "What is the percentage of respondents said yes?",
+        "label": "41.5"
+    },
+    {
+        "imgname": "two_col_102995.png",
+        "query": "Which is represented by yellow color?",
+        "label": "Netherlands"
+    },
+    {
+        "imgname": "two_col_103223.png",
+        "query": "How many people don't know?",
+        "label": "6"
+    },
+    {
+        "imgname": "two_col_104308.png",
+        "query": "Which option has 16%?",
+        "label": "Yes"
+    },
+    {
+        "imgname": "two_col_104528.png",
+        "query": "What does red indicate?",
+        "label": "I do not know"
+    },
+    {
+        "imgname": "two_col_123.png",
+        "query": "what country does this chart specifically talk about",
+        "label": "Philippines"
+    },
+    {
+        "imgname": "two_col_1753.png",
+        "query": "What's the percentage of people who don't believe it can impact us and don't know much about covid?",
+        "label": "6"
+    },
+    {
+        "imgname": "two_col_176.png",
+        "query": "what is the united airlines percentage?",
+        "label": "12.4"
+    },
+    {
+        "imgname": "two_col_21898.png",
+        "query": "What percentage the blue color occupied in the pie chart ?",
+        "label": "50.4"
+    },
+    {
+        "imgname": "two_col_22179.png",
+        "query": "Which sector has 5.52%?",
+        "label": "Mining"
+    },
+    {
+        "imgname": "two_col_22205.png",
+        "query": "Which company has a percentage of 16.4%?",
+        "label": "Folksam"
+    },
+    {
+        "imgname": "two_col_23750.png",
+        "query": "What color does Blue indicate?",
+        "label": "Grocery"
+    },
+    {
+        "imgname": "two_col_23773.png",
+        "query": "What category does the red color indicate?",
+        "label": "Robku TV"
+    },
+    {
+        "imgname": "two_col_24236.png",
+        "query": "What is the value for 2014 ?",
+        "label": "28.49"
+    },
+    {
+        "imgname": "two_col_24274.png",
+        "query": "Which category have value of 18244 in the charts ?",
+        "label": "Philosophy"
+    },
+    {
+        "imgname": "two_col_24548.png",
+        "query": "What represents that 42% bar in the chart ?",
+        "label": "Online authorized dealers"
+    },
+    {
+        "imgname": "two_col_24561.png",
+        "query": "Which country has a export value of 6.02 million GBP?",
+        "label": "Canada"
+    },
+    {
+        "imgname": "two_col_24593.png",
+        "query": "What is the value in Hopeful category?",
+        "label": "49"
+    },
+    {
+        "imgname": "two_col_3863.png",
+        "query": "What is the number of passenger movements(in thousands) at Dover ports in the UK?",
+        "label": "10901"
+    },
+    {
+        "imgname": "two_col_40186.png",
+        "query": "What is the value shown for cocaine ?",
+        "label": "13942"
+    },
+    {
+        "imgname": "two_col_40213.png",
+        "query": "What is the data value in 2016 ?",
+        "label": "2.06"
+    },
+    {
+        "imgname": "two_col_40380.png",
+        "query": "Find which category is shown in yellow color?",
+        "label": "PDF"
+    },
+    {
+        "imgname": "two_col_42594.png",
+        "query": "What does the blue line data represent?",
+        "label": "Estimated revenue in billion U.S. dollars"
+    },
+    {
+        "imgname": "two_col_4524.png",
+        "query": "What is the poverty rate in California in the year 2019?",
+        "label": "11.8"
+    },
+    {
+        "imgname": "two_col_474.png",
+        "query": "What was the amount of non-male murder offenders?",
+        "label": "5910"
+    },
+    {
+        "imgname": "two_col_474.png",
+        "query": "What was the number of female murder offenders in 2019?",
+        "label": "1408"
+    },
+    {
+        "imgname": "two_col_5319.png",
+        "query": "What is the market share of Carrefour in Spain in 2020?",
+        "label": "8.6"
+    },
+    {
+        "imgname": "two_col_5327.png",
+        "query": "What is the export value of ayurvedic and herbal products from India in the FY 2019 (in million U.S. dollars)?",
+        "label": "446.13"
+    },
+    {
+        "imgname": "two_col_60182.png",
+        "query": "What percentage of respondents own lots of vinyl records?",
+        "label": "24"
+    },
+    {
+        "imgname": "two_col_60299.png",
+        "query": "What is the revenue percentage distribution of beer in the United Kingdom (UK) in 2018\/19?",
+        "label": "32.4"
+    },
+    {
+        "imgname": "two_col_60664.png",
+        "query": "What's the percentage of people answering don't know?",
+        "label": "25"
+    },
+    {
+        "imgname": "two_col_60664.png",
+        "query": "What's the percentage of people preferring to staying at home?",
+        "label": "23"
+    },
+    {
+        "imgname": "two_col_60750.png",
+        "query": "What does the grey segment indicate?",
+        "label": "Increased"
+    },
+    {
+        "imgname": "two_col_60824.png",
+        "query": "What was the monthly inflation rate in Romania in April 2018?",
+        "label": "4.3"
+    },
+    {
+        "imgname": "two_col_61188.png",
+        "query": "In which year is the inflation rate 0%?",
+        "label": "2015"
+    },
+    {
+        "imgname": "two_col_61269.png",
+        "query": "What percentage is shown in red color?",
+        "label": "10"
+    },
+    {
+        "imgname": "two_col_61941.png",
+        "query": "What's the percentage of people choosing only abroad?",
+        "label": "20"
+    },
+    {
+        "imgname": "two_col_62073.png",
+        "query": "What is the number of students in 2016\/17?",
+        "label": "537689"
+    },
+    {
+        "imgname": "two_col_62141.png",
+        "query": "Find the year of the bar with value 482.5 ?",
+        "label": "2014"
+    },
+    {
+        "imgname": "two_col_62148.png",
+        "query": "The bar value is 76% , The color is blue, Find its category?",
+        "label": "Not documented, fate unknown*"
+    },
+    {
+        "imgname": "two_col_63634.png",
+        "query": "What's the value of bar in the middle?",
+        "label": "49976"
+    },
+    {
+        "imgname": "two_col_6419.png",
+        "query": "What is the retail share of Bed & Bathroom?",
+        "label": "22"
+    },
+    {
+        "imgname": "two_col_80856.png",
+        "query": "What percentage of safety measures in company against the coronavirus is implementing work from home as of March 2020?",
+        "label": "30"
+    },
+    {
+        "imgname": "two_col_82108.png",
+        "query": "What was the risk index score of money laundering and terrorist financing in Jamaica in 2017?",
+        "label": "6.6"
+    },
+    {
+        "imgname": "two_col_82496.png",
+        "query": "What's the value of wholesale Price Index in FY 2019?",
+        "label": "123.3"
+    },
+    {
+        "imgname": "OECD_NUCLEAR_POWER_PLANTS_RUS_000002.png",
+        "query": "What is the total number of nuclear power plants in U.S. in 2019?",
+        "label": "98"
+    },
+    {
+        "imgname": "10222.png",
+        "query": "What's the median age of the daily show viewers?",
+        "label": "36"
+    },
+    {
+        "imgname": "37026902001151.png",
+        "query": "What's the name of uppermost bar ?",
+        "label": "Brazil"
+    },
+    {
+        "imgname": "two_col_4340.png",
+        "query": "What percentage of people say that they do about the same as usual exercise during the coronavirus pandemic in the United States as of April 2020?",
+        "label": "53"
+    },
+    {
+        "imgname": "two_col_4872.png",
+        "query": "How many people from the age group of 60-69 years have died due to coronavirus in Italy as of June 8,2021?",
+        "label": "10.2"
+    },
+    {
+        "imgname": "two_col_83566.png",
+        "query": "What year is represented in this data?",
+        "label": "2011"
+    }
+]

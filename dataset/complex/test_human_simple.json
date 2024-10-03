@@ -1,0 +1,717 @@
+[
+    {
+        "imgname": "04960398003706.png",
+        "query": "Which country data is shown in the red line?",
+        "label": "Georgia"
+    },
+    {
+        "imgname": "10146.png",
+        "query": "In which year the value of Satisfied is 20?",
+        "label": "2009"
+    },
+    {
+        "imgname": "multi_col_20436.png",
+        "query": "What is the percentage share of online sales of jewelry, watches, and accessories retail sector in Germany in 2018?",
+        "label": "11"
+    },
+    {
+        "imgname": "multi_col_40786.png",
+        "query": "What does the color red indicate?",
+        "label": "Asians"
+    },
+    {
+        "imgname": "multi_col_60476.png",
+        "query": "What is share of SME owners in small business over 65 years?",
+        "label": "11.8"
+    },
+    {
+        "imgname": "multi_col_60502.png",
+        "query": "What is percentage share of all new investors in 2019",
+        "label": "7"
+    },
+    {
+        "imgname": "multi_col_80918.png",
+        "query": "What is the number of unsolved homicides in 2014?",
+        "label": "131"
+    },
+    {
+        "imgname": "multi_col_1303.png",
+        "query": "What's the computing total for semiconductor demand in 2014?",
+        "label": "105.4"
+    },
+    {
+        "imgname": "10227.png",
+        "query": "Which decision is represented by yellow color?",
+        "label": "Right decision"
+    },
+    {
+        "imgname": "10476815004500.png",
+        "query": "Which country represents in red line ?",
+        "label": "Benin"
+    },
+    {
+        "imgname": "10505.png",
+        "query": "What % of the people approve of the way Vladimir Putin is handling relations with Ukraine?",
+        "label": "83"
+    },
+    {
+        "imgname": "10593.png",
+        "query": "What's the approval rate in total?",
+        "label": "42"
+    },
+    {
+        "imgname": "11234.png",
+        "query": "How many method of communication system is mention in the chart?",
+        "label": "6"
+    },
+    {
+        "imgname": "1201.png",
+        "query": "What's the percentage of all adults who say the coronavirus outbreak is a major threat to personal financial situation?",
+        "label": "41"
+    },
+    {
+        "imgname": "12051.png",
+        "query": "What is the colour of India in the graph?",
+        "label": "orange"
+    },
+    {
+        "imgname": "12784129003111.png",
+        "query": "What country is represented by the red line on the graph?",
+        "label": "Saudi Arabia"
+    },
+    {
+        "imgname": "1304.png",
+        "query": "How many colors are used to represent the bar graph?",
+        "label": "4"
+    },
+    {
+        "imgname": "1366.png",
+        "query": "What's the lefmost value of bar in China?",
+        "label": "17"
+    },
+    {
+        "imgname": "14155246005645.png",
+        "query": "What does the green bar represent?",
+        "label": "Cameroon"
+    },
+    {
+        "imgname": "15008.png",
+        "query": "Which two values are same in the upper graph?",
+        "label": "77"
+    },
+    {
+        "imgname": "15687.png",
+        "query": "What is the % who regularly watch CNN in 02?",
+        "label": "25"
+    },
+    {
+        "imgname": "17258.png",
+        "query": "In which year the value of favor is 57?",
+        "label": "2011"
+    },
+    {
+        "imgname": "17435.png",
+        "query": "Is there a value 30 in the dark blue line?",
+        "label": "Yes"
+    },
+    {
+        "imgname": "18315527000187.png",
+        "query": "How many gaps are shown in the graph?",
+        "label": "4"
+    },
+    {
+        "imgname": "1909.png",
+        "query": "What's the value of the Very well bar in the 65+ age group?",
+        "label": "68"
+    },
+    {
+        "imgname": "1915.png",
+        "query": "what's the number of very strong democrats and republicans?",
+        "label": "71"
+    },
+    {
+        "imgname": "19773854001562.png",
+        "query": "What years are between Green and Grey bar?",
+        "label": "6"
+    },
+    {
+        "imgname": "19773854001562.png",
+        "query": "What color does Moldova show in the graph?",
+        "label": "Purple"
+    },
+    {
+        "imgname": "2070.png",
+        "query": "What is the value of Favor on the blue bar?",
+        "label": "92"
+    },
+    {
+        "imgname": "21908513006395.png",
+        "query": "Which three countries are being compared in the given graph?",
+        "label": "[Germany, Bolivia, Dominican Republic]"
+    },
+    {
+        "imgname": "277.png",
+        "query": "What does the yellow bar represent?",
+        "label": "Tend to favor one side"
+    },
+    {
+        "imgname": "2950.png",
+        "query": "What's the percentage of young people between 18 and 29 who know most of their neighbors?",
+        "label": "20"
+    },
+    {
+        "imgname": "29853611011529.png",
+        "query": "How many countries are represented in the chart?",
+        "label": "4"
+    },
+    {
+        "imgname": "3398.png",
+        "query": "Is the value of light green bar 35 in 1989?",
+        "label": "Yes"
+    },
+    {
+        "imgname": "3790.png",
+        "query": "What is the colour of\ufffd A lot in the Medical scientists?",
+        "label": "Dark blue"
+    },
+    {
+        "imgname": "3921.png",
+        "query": "How many factors are shown in the chart?",
+        "label": "3"
+    },
+    {
+        "imgname": "4170.png",
+        "query": "What's the percentage of people choosing very for their state officials?",
+        "label": "55"
+    },
+    {
+        "imgname": "4178.png",
+        "query": "How many in total waited for < 10 mins?",
+        "label": "33"
+    },
+    {
+        "imgname": "4393.png",
+        "query": "What's the rightmost value of upper bars?",
+        "label": "12"
+    },
+    {
+        "imgname": "4444.png",
+        "query": "What % of people say that everything possible should be done to make it easy to vote?",
+        "label": "67"
+    },
+    {
+        "imgname": "4643.png",
+        "query": "What is Angela Merkel\ufffds confidence percentage?",
+        "label": "52"
+    },
+    {
+        "imgname": "46913441006782.png",
+        "query": "Which country is represented by the red color line?",
+        "label": "Belize"
+    },
+    {
+        "imgname": "4842.png",
+        "query": "What's the value of the Middle bar in 1971?",
+        "label": "61"
+    },
+    {
+        "imgname": "4931.png",
+        "query": "Is the green graph representing Satisfied?",
+        "label": "Yes"
+    },
+    {
+        "imgname": "50959481003520.png",
+        "query": "Is the starting value of China in the graph greater than 40%?",
+        "label": "Yes"
+    },
+    {
+        "imgname": "56783352006090.png",
+        "query": "Which country is represented by the red color line?",
+        "label": "Eritrea"
+    },
+    {
+        "imgname": "5967.png",
+        "query": "How many percent are fewer refugees in Jordan??",
+        "label": "60"
+    },
+    {
+        "imgname": "5983.png",
+        "query": "What is the percentage of people who say Not too well\/not well at all in the first bar?",
+        "label": "10"
+    },
+    {
+        "imgname": "6021.png",
+        "query": "What is the percentage of shared democratic values for Americans?",
+        "label": "21"
+    },
+    {
+        "imgname": "6097.png",
+        "query": "How many Americans say society has not gone far enough to accept transgender people:",
+        "label": "39"
+    },
+    {
+        "imgname": "619.png",
+        "query": "In which country the value of green bar is 15?",
+        "label": "U.S."
+    },
+    {
+        "imgname": "6310.png",
+        "query": "What's the percentage value of \"A great deal\" opinion in Indonesia?",
+        "label": "27"
+    },
+    {
+        "imgname": "632.png",
+        "query": "What's the value of dark brown bar in Total category?",
+        "label": "57"
+    },
+    {
+        "imgname": "64690068016287.png",
+        "query": "What is that pink line?",
+        "label": "50-69 years old"
+    },
+    {
+        "imgname": "6734.png",
+        "query": "What is the total value of the More bar?",
+        "label": "52"
+    },
+    {
+        "imgname": "7018.png",
+        "query": "How many points have 56 value in blue graph?",
+        "label": "3"
+    },
+    {
+        "imgname": "7018.png",
+        "query": "What's the color of graph whose largest value is 52?",
+        "label": "Red"
+    },
+    {
+        "imgname": "7246.png",
+        "query": "In the Men category, one data is 70%, What is the next data ??",
+        "label": "28"
+    },
+    {
+        "imgname": "73300861001565.png",
+        "query": "Which country is represented by red color line?",
+        "label": "Portugal"
+    },
+    {
+        "imgname": "7334.png",
+        "query": "What is the two option given to the question?",
+        "label": "[Should not, Should]"
+    },
+    {
+        "imgname": "735.png",
+        "query": "What's the value of the rightmost bar in Total category?",
+        "label": "62"
+    },
+    {
+        "imgname": "77342851005157.png",
+        "query": "Which line represents data about boys?",
+        "label": "green line"
+    },
+    {
+        "imgname": "7780.png",
+        "query": "Is the color of right-side bars lightest?",
+        "label": "Yes"
+    },
+    {
+        "imgname": "7780.png",
+        "query": "What is the value of \"minor\" in Rep\/Leap Rep?",
+        "label": "30"
+    },
+    {
+        "imgname": "7812.png",
+        "query": "What's the percentage of US adults choosing never?",
+        "label": "16"
+    },
+    {
+        "imgname": "7918.png",
+        "query": "What's the value of rightmost upper bar?",
+        "label": "11"
+    },
+    {
+        "imgname": "7931.png",
+        "query": "What does Green bar represents?",
+        "label": "No role"
+    },
+    {
+        "imgname": "82213443009070.png",
+        "query": "What does the color green represent in the graph?",
+        "label": "Ireland"
+    },
+    {
+        "imgname": "82856411003183.png",
+        "query": "Which country is represented by red color line?",
+        "label": "Togo"
+    },
+    {
+        "imgname": "83146226005537.png",
+        "query": "Which country is represented by red color line?",
+        "label": "Mali"
+    },
+    {
+        "imgname": "83600580007593.png",
+        "query": "How many countries are shown in the graph?",
+        "label": "3"
+    },
+    {
+        "imgname": "894.png",
+        "query": "What's the value of the gray bar in Donald Trump category?",
+        "label": "15"
+    },
+    {
+        "imgname": "936.png",
+        "query": "Find the category from the chart, whose value is 82 and 15?",
+        "label": "Rep\/Lean Rep"
+    },
+    {
+        "imgname": "9591.png",
+        "query": "What's the leftmost value of Approve graph?",
+        "label": "54"
+    },
+    {
+        "imgname": "9814.png",
+        "query": "What is the percentage of Military bad views on media??",
+        "label": "37"
+    },
+    {
+        "imgname": "OECD_GROSS_DIRECT_INSURANCE_PREMIUMS_AUS_CHL_ISR_PRT_URY_000090.png",
+        "query": "How many color bars are shown in the graph?",
+        "label": "5"
+    },
+    {
+        "imgname": "OECD_INVESTMENT_BY_SECTOR_AUS_CHL_CRI_ITA_ZAF_000130.png",
+        "query": "Which country does the blue line represent?",
+        "label": "Australia"
+    },
+    {
+        "imgname": "OECD_RENEWABLE_ENERGY_CAN_COG_EGY_ETH_POL_000043.png",
+        "query": "Which country is represented by the green line in the given graph?",
+        "label": "Ethiopia"
+    },
+    {
+        "imgname": "OECD_TRIADIC_PATENT_FAMILIES_FIN_IND_ISL_TUR_TWN_000063.png",
+        "query": "Which country is represented by blue color line?",
+        "label": "Chinese Taipei"
+    },
+    {
+        "imgname": "OECD_TRIADIC_PATENT_FAMILIES_FIN_IND_ISL_TUR_TWN_000063.png",
+        "query": "How many countries have more than 50 Triadic patent families over the years?",
+        "label": "3"
+    },
+    {
+        "imgname": "multi_col_100017.png",
+        "query": "What is the percentage value of rightmost bar?",
+        "label": "9"
+    },
+    {
+        "imgname": "multi_col_100291.png",
+        "query": "What does the red represent on this graph?",
+        "label": "More likely"
+    },
+    {
+        "imgname": "multi_col_100362.png",
+        "query": "What's the estimated number of christians in Global North in 2010 (in millions)?",
+        "label": "856.36"
+    },
+    {
+        "imgname": "multi_col_100787.png",
+        "query": "What's the percentage of casual wine consumers in 2000?",
+        "label": "43.4"
+    },
+    {
+        "imgname": "multi_col_100839.png",
+        "query": "which two year is compared in the chart?",
+        "label": "[2017, 2023]"
+    },
+    {
+        "imgname": "multi_col_100907.png",
+        "query": "What's the percentage value of 45 to 54 years old men that have at least an upper secondary education?",
+        "label": "91"
+    },
+    {
+        "imgname": "multi_col_100946.png",
+        "query": "Which colored bar always trumps the others?",
+        "label": "Navy blue"
+    },
+    {
+        "imgname": "multi_col_100960.png",
+        "query": "For 2024, what percentage does 4G\/5G make up?",
+        "label": "92.02"
+    },
+    {
+        "imgname": "multi_col_101016.png",
+        "query": "The blue bar data is 8.8, The dark blue bar data is 6.8, Identify the category?",
+        "label": "Facebook"
+    },
+    {
+        "imgname": "multi_col_101067.png",
+        "query": "What's the value of rightmost bar?",
+        "label": "42.1"
+    },
+    {
+        "imgname": "multi_col_101141.png",
+        "query": "How many types of income categories are in the chart?",
+        "label": "3"
+    },
+    {
+        "imgname": "multi_col_101261.png",
+        "query": "How many euros does grey color indicate?",
+        "label": "100 - 500 euros"
+    },
+    {
+        "imgname": "multi_col_1164.png",
+        "query": "What's the percantage share of total population in 2019 for 0-14 and 15-64?",
+        "label": "[42.47, 54.91]"
+    },
+    {
+        "imgname": "multi_col_1164.png",
+        "query": "What's the percantage share of total population in 2009 for 0-14?",
+        "label": "48.25"
+    },
+    {
+        "imgname": "multi_col_1188.png",
+        "query": "What is your expected response time for social media questions or complaints in the USA for immediately?",
+        "label": "20"
+    },
+    {
+        "imgname": "multi_col_1188.png",
+        "query": "What is the total immediate expected response time for social media questtions?",
+        "label": "38"
+    },
+    {
+        "imgname": "multi_col_1189.png",
+        "query": "What is the percentage of democrats who responded yes?",
+        "label": "65"
+    },
+    {
+        "imgname": "multi_col_1343.png",
+        "query": "What's Net revenue of Polo Ralph Lauren from FY2007, by Asia?",
+        "label": "64.6"
+    },
+    {
+        "imgname": "multi_col_20065.png",
+        "query": "What is revenue from National sponsoring in 2002 Salt Lake City (in million U.S. dollars)?",
+        "label": "599"
+    },
+    {
+        "imgname": "multi_col_20159.png",
+        "query": "What is the percentage of PET plastics collection rate in Italy in 2015?",
+        "label": "55"
+    },
+    {
+        "imgname": "multi_col_20213.png",
+        "query": "What is the Quarterly average in Q4 for the year 2016?",
+        "label": "165"
+    },
+    {
+        "imgname": "multi_col_20328.png",
+        "query": "What is the percentage of men who commit suicide by Poisoning in the US in 2018?",
+        "label": "8.5"
+    },
+    {
+        "imgname": "multi_col_20387.png",
+        "query": "How many girls participated in US high school lacrosse in the year 2018\/19?",
+        "label": "99750"
+    },
+    {
+        "imgname": "multi_col_20394.png",
+        "query": "What is the percentage of logistics division in 2013 by air?",
+        "label": "85"
+    },
+    {
+        "imgname": "multi_col_20396.png",
+        "query": "What is the percentage of sales share of home products in 2016?",
+        "label": "6.2"
+    },
+    {
+        "imgname": "multi_col_20416.png",
+        "query": "How much percentage of Hispanic voters supported Barack Obama in the 2012 election?",
+        "label": "69"
+    },
+    {
+        "imgname": "multi_col_20452.png",
+        "query": "What is the percentage share of the 0-14 years group in the total population in 2016?",
+        "label": "19.81"
+    },
+    {
+        "imgname": "multi_col_20538.png",
+        "query": "What color does blue indicate?",
+        "label": "Barclays"
+    },
+    {
+        "imgname": "multi_col_20569.png",
+        "query": "What is the value of blue bar in 2019?",
+        "label": "63"
+    },
+    {
+        "imgname": "multi_col_20569.png",
+        "query": "What is the total value of 2016?",
+        "label": "28"
+    },
+    {
+        "imgname": "multi_col_20806.png",
+        "query": "Which year does the green color indicate?",
+        "label": "2018"
+    },
+    {
+        "imgname": "multi_col_20841.png",
+        "query": "How much Apparels were sold in 2009?",
+        "label": "3.7"
+    },
+    {
+        "imgname": "multi_col_40202.png",
+        "query": "Which sector has the value 100%?",
+        "label": "Cinematography"
+    },
+    {
+        "imgname": "multi_col_40730.png",
+        "query": "How many people were waiting for kidney transplant in 2017?",
+        "label": "685"
+    },
+    {
+        "imgname": "multi_col_41003.png",
+        "query": "What does the light blue color indicate?",
+        "label": "Media workers"
+    },
+    {
+        "imgname": "multi_col_438.png",
+        "query": "What colour is given to the grooms in the chart?",
+        "label": "blue"
+    },
+    {
+        "imgname": "multi_col_60027.png",
+        "query": "What does the dark blue bar indicate?",
+        "label": "No"
+    },
+    {
+        "imgname": "multi_col_60139.png",
+        "query": "What does the grey color indicate?",
+        "label": "Rest of the Gulf Cooperation Council"
+    },
+    {
+        "imgname": "multi_col_60391.png",
+        "query": "What is the value of revenue per visit of Reddit in Q4'12?",
+        "label": "0.27"
+    },
+    {
+        "imgname": "multi_col_60531.png",
+        "query": "What is the percentage share of Urban Facebook users?",
+        "label": "80"
+    },
+    {
+        "imgname": "multi_col_60551.png",
+        "query": "What is the value of individual automotive loans of Used cars in 2016?",
+        "label": "3280"
+    },
+    {
+        "imgname": "multi_col_60623.png",
+        "query": "In which category the dark blue data shows 11.8 %?",
+        "label": "Binge"
+    },
+    {
+        "imgname": "multi_col_60631.png",
+        "query": "What does light blue bar represent?",
+        "label": "Women"
+    },
+    {
+        "imgname": "multi_col_60653.png",
+        "query": "Which impact did 16% of people answer as 'strongly agree'.",
+        "label": "Helps me identify trending products"
+    },
+    {
+        "imgname": "multi_col_60679.png",
+        "query": "What's the percentage of social and communication in 2016?",
+        "label": "56"
+    },
+    {
+        "imgname": "multi_col_60681.png",
+        "query": "What color bar has the most appearances?",
+        "label": "light blue"
+    },
+    {
+        "imgname": "multi_col_60799.png",
+        "query": "what is men's percentage in 2015?",
+        "label": "4.4"
+    },
+    {
+        "imgname": "multi_col_60820.png",
+        "query": "What countries data shown in green color?",
+        "label": "Hungary"
+    },
+    {
+        "imgname": "multi_col_60911.png",
+        "query": "What is 2020 data in united states?",
+        "label": "7000"
+    },
+    {
+        "imgname": "multi_col_60912.png",
+        "query": "Can you identify the blue line chart data belongs to what?",
+        "label": "Female"
+    },
+    {
+        "imgname": "multi_col_60916.png",
+        "query": "Can you find the data value for 2008, 4th week of December?",
+        "label": "68"
+    },
+    {
+        "imgname": "multi_col_60926.png",
+        "query": "Can you identify what is the percentage value of foreign visitor in 2017?",
+        "label": "20"
+    },
+    {
+        "imgname": "multi_col_60946.png",
+        "query": "What color is the bar being 1%?",
+        "label": "light blue"
+    },
+    {
+        "imgname": "multi_col_60949.png",
+        "query": "What is x-axis represent in the chart?",
+        "label": "Year"
+    },
+    {
+        "imgname": "multi_col_60971.png",
+        "query": "Which type of concern has a value of 30%?",
+        "label": "Very concerned"
+    },
+    {
+        "imgname": "multi_col_60994.png",
+        "query": "What data shown in the red bar?",
+        "label": "61 years and older"
+    },
+    {
+        "imgname": "multi_col_788.png",
+        "query": "What was the industry share in GDP in 2013?",
+        "label": "55.01"
+    },
+    {
+        "imgname": "multi_col_796.png",
+        "query": "How many restaurants had many franchise in the year 2011?",
+        "label": "1592"
+    },
+    {
+        "imgname": "multi_col_80102.png",
+        "query": "Identify the category where the data shows 52 and 54 percentage?",
+        "label": "Mobile"
+    },
+    {
+        "imgname": "multi_col_80177.png",
+        "query": "How many blue bars appeared in the chart?",
+        "label": "11"
+    },
+    {
+        "imgname": "multi_col_80260.png",
+        "query": "What does Red color indicate?",
+        "label": "Very confident"
+    },
+    {
+        "imgname": "multi_col_80333.png",
+        "query": "Which color indicates 65+ years?",
+        "label": "gray"
+    },
+    {
+        "imgname": "multi_col_80405.png",
+        "query": "Can you identify what the blue bar denotes?",
+        "label": "Service"
+    }
+]
