@@ -27,7 +27,7 @@ This directory has been broken down into two sub-directories:
 Clone the repository and follow the instructions in the README files of each sub-directory to use the dataset and scripts provided in this repository. 
 Create a virtual environment and install the required dependencies using the following command:
 ```bash
-pip install -r requirements.txt
+conda create --name <env> --file requirements.txt
 ```
 
 
